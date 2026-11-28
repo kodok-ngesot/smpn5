@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071426"/>
+      <stop offset="50%" stop-color="#123159"/>
+      <stop offset="100%" stop-color="#78350F"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg5)"/>
+  <circle cx="600" cy="290" r="105" fill="#F59E0B" fill-opacity="0.2" stroke="#F59E0B" stroke-width="4"/>
+  <polygon points="600,210 624,265 682,270 638,310 650,368 600,338 550,368 562,310 518,270 576,265" fill="#FBBF24"/>
+  <text x="600" y="465" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">GALERI PRESTASI &amp; PENGHARGAAN SISWA</text>
+  <text x="600" y="515" text-anchor="middle" fill="#FCD34D" font-family="sans-serif" font-size="21" font-weight="bold">[SLOT FOTO REAL 5: PENYERAHAN PIALA &amp; MEDALI KEJUARAAN]</text>
+  <text x="600" y="555" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="17">OSN • O2SN • FLS2N • MAPSI • POPDA Kabupaten Purbalingga</text>
+</svg>

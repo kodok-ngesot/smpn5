@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750">
+  <defs>
+    <linearGradient id="sky1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1F3A"/>
+      <stop offset="55%" stop-color="#123159"/>
+      <stop offset="100%" stop-color="#0F766E"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#sky1)"/>
+  <circle cx="980" cy="140" r="70" fill="#F59E0B" fill-opacity="0.22"/>
+  <rect x="100" y="340" width="1000" height="280" rx="12" fill="#071426" fill-opacity="0.55" stroke="#F59E0B" stroke-width="2" stroke-opacity="0.6"/>
+  <polygon points="160,340 600,170 1040,340" fill="#1b447c" stroke="#F59E0B" stroke-width="3"/>
+  <rect x="520" y="430" width="160" height="190" rx="8" fill="#0F766E" fill-opacity="0.7"/>
+  <rect x="200" y="400" width="120" height="90" rx="6" fill="#d9e3f0" fill-opacity="0.25"/>
+  <rect x="350" y="400" width="120" height="90" rx="6" fill="#d9e3f0" fill-opacity="0.25"/>
+  <rect x="730" y="400" width="120" height="90" rx="6" fill="#d9e3f0" fill-opacity="0.25"/>
+  <rect x="880" y="400" width="120" height="90" rx="6" fill="#d9e3f0" fill-opacity="0.25"/>
+  <rect x="80" y="620" width="1040" height="36" rx="6" fill="#0F766E"/>
+  <text x="600" y="295" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="28" font-weight="bold">SMP NEGERI 5 PURBALINGGA</text>
+  <text x="600" y="515" text-anchor="middle" fill="#FCD34D" font-family="sans-serif" font-size="20" font-weight="bold">[SLOT FOTO REAL 1: GEDUNG &amp; GERBANG UTAMA]</text>
+  <text x="600" y="550" text-anchor="middle" fill="#E2E8F0" font-family="sans-serif" font-size="17">Jl. Letjend S. Parman No. 1 A, Kel. Bancar, Kab. Purbalingga</text>
+</svg>

@@ -1,0 +1,396 @@
+{
+  "news": [
+    {
+      "id": "kegiatan-1",
+      "slug": "gelar-karya-p5-tema-kewirausahaan",
+      "title": "Gelar Karya P5 Tema Kewirausahaan & Bazar Kuliner Kreasi Siswa SMPN 5 Purbalingga",
+      "category": "Kegiatan Sekolah",
+      "date": "14 November 2026",
+      "author": "Tim Kurikulum & P5 SMPN 5 Purbalingga",
+      "excerpt": "Kepala Sekolah Bapak Slamet Sriyanto bersama dewan guru dan Paguyuban Orang Tua meninjau langsung pameran produk wirausaha siswa mulai dari kuliner tradisional hingga kreasi minuman segar.",
+      "content": "Dalam rangka mengimplementasikan Kurikulum Merdeka, SMP Negeri 5 Purbalingga menggelar puncak Projek Penguatan Profil Pelajar Pancasila (P5) dengan Tema Kewirausahaan. Para siswa dari berbagai kelas, termasuk stand kreatif Kelas 8G dan stand Paguyuban, mempraktikkan langsung proses perencanaan produk, pengemasan, hingga pelayanan konsumen di halaman sekolah.",
+      "photoSrc": "/images/school/real-p5-kewirausahaan.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "kegiatan-2",
+      "slug": "ramadhan-festive-dan-penyaluran-zakat-upz",
+      "title": "Ramadhan Festive: Penyaluran Zakat Fitrah UPZ SMPN 5 Purbalingga & Tadarus Bersama",
+      "category": "Kesiswaan",
+      "date": "28 Oktober 2026",
+      "author": "Unit Pengumpul Zakat (UPZ) & Rohis",
+      "excerpt": "Melalui Unit Pengumpul Zakat (UPZ) SMP Negeri 5 Purbalingga, para siswa menyalurkan paket beras zakat fitrah secara langsung kepada masyarakat sekitar Kelurahan Bancar.",
+      "content": "Kegiatan Ramadhan Festive di SMPN 5 Purbalingga diisi dengan rangkaian acara peningkatan iman dan kepedulian sosial, meliputi Tadarus Al-Qur'an (One Class One Juz) di lapangan sekolah, pengumpulan serta penyaluran Zakat Fitrah oleh UPZ sekolah kepada warga yang membutuhkan, peringatan Nuzulul Qur'an, salat Dhuha bersama, dan festival keagamaan.",
+      "photoSrc": "/images/school/real-upz-zakat.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "kegiatan-3",
+      "slug": "latihan-dasar-kepemimpinan-ldk-osis",
+      "title": "Latihan Dasar Kepemimpinan (LDK) OSIS: Membentuk Generasi Profil Pelajar Pancasila",
+      "category": "Kesiswaan",
+      "date": "15 Oktober 2026",
+      "author": "Bidang Kesiswaan SMPN 5 Purbalingga",
+      "excerpt": "Pengurus OSIS mengikuti pelatihan kepemimpinan, manajemen organisasi, public speaking, dan penegakan budaya 5S (Senyum, Salam, Sapa, Sopan, Santun).",
+      "content": "Latihan Dasar Kepemimpinan (LDK) OSIS diselenggarakan untuk membekali calon pemimpin muda SMPN 5 Purbalingga dengan kecakapan komunikasi, tanggung jawab organisasi, keteladanan disiplin di gerbang Sekolah Ramah Anak, serta tata upacara bendera.",
+      "photoSrc": "/images/school/real-ldk-osis.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "kegiatan-4",
+      "slug": "semarak-hari-kartini-dan-apresiasi-sastra",
+      "title": "Semarak Parade Busana Adat, Lomba Baca Puisi & Persembahan Seni Siswa",
+      "category": "Kegiatan Sekolah",
+      "date": "02 Oktober 2026",
+      "author": "Bidang Seni Budaya & Literasi",
+      "excerpt": "Lapangan utama SMPN 5 Purbalingga semarak dengan peragaan busana kebaya nasional, pembacaan puisi, serta persembahan paduan suara siswa.",
+      "content": "Untuk menumbuhkan kecintaan terhadap budaya bangsa dan kemampuan literasi sastra, siswa-siswi bersama dewan guru menampilkan peragaan busana adat kebaya dan batik, lomba baca puisi di lapangan utama, serta penampilan vokal paduan suara.",
+      "photoSrc": "/images/school/real-kartini-fashion.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "kegiatan-5",
+      "slug": "gebyar-senam-pagi-dan-turnamen-classmeeting",
+      "title": "Gebyar Senam Sehat Bersama & Penyerahan Piala Turnamen Futsal Classmeeting",
+      "category": "Akademik",
+      "date": "20 September 2026",
+      "author": "Tim PJOK & Kesiswaan",
+      "excerpt": "Menjaga kebugaran jasmani warga sekolah melalui senam pagi bersama di lapangan utama serta kompetisi olahraga futsal dan lomba ketangkasan antar kelas.",
+      "content": "Seluruh siswa dan guru mengikuti senam kebugaran jasmani secara rutin di lapangan olahraga SMPN 5 Purbalingga. Kegiatan juga dirangkaikan dengan penyerahan piala kepada tim pemenang turnamen futsal putra serta lomba kekompakan antar kelas.",
+      "photoSrc": "/images/school/real-senam-bersama.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "kegiatan-6",
+      "slug": "kiprah-dharma-wanita-persatuan-smpn5",
+      "title": "Kiprah Dharma Wanita Persatuan (DWP) SMPN 5 Purbalingga dalam Raker & Kriya Kreatif",
+      "category": "Pengumuman",
+      "date": "10 September 2026",
+      "author": "DWP Unit SMPN 5 Purbalingga",
+      "excerpt": "Partisipasi aktif anggota DWP dalam sosialisasi AD/ART tingkat Kabupaten Purbalingga, penerimaan penghargaan dari DWP Dindikbud, dan pelatihan kriya rajut.",
+      "content": "Dharma Wanita Persatuan (DWP) unit SMP Negeri 5 Purbalingga aktif mendukung program pendidikan dan pemberdayaan keterampilan melalui pertemuan rutin, penerimaan apresiasi dari DWP Dinas Pendidikan dan Kebudayaan Kabupaten Purbalingga, serta produksi kerajinan tangan.",
+      "photoSrc": "/images/school/real-dwp-penghargaan.jpg",
+      "isDummy": false
+    }
+  ],
+  "achievements": [
+    {
+      "id": "prestasi-1",
+      "title": "Juara Turnamen Futsal Putra Antar Kelas & Pembinaan Prestasi Olahraga",
+      "competitionName": "Kompetisi Futsal & Pembinaan Olahraga Siswa SMPN 5 Purbalingga",
+      "rank": "Juara 1",
+      "category": "Olahraga",
+      "level": "Kabupaten",
+      "year": "2026",
+      "winnerName": "Tim Futsal Putra SMPN 5 Purbalingga",
+      "organizer": "Bidang Kesiswaan & Olahraga SMPN 5 Purbalingga",
+      "photoSrc": "/images/school/real-juara-futsal.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "prestasi-2",
+      "title": "Apresiasi & Piagam Dharma Wanita Persatuan (DWP) Unit SMPN 5 Purbalingga",
+      "competitionName": "Pembinaan & Kegiatan DWP Dinas Pendidikan dan Kebudayaan Kab. Purbalingga",
+      "rank": "Penghargaan",
+      "category": "Kesiswaan & Sekolah",
+      "level": "Kabupaten",
+      "year": "2025",
+      "winnerName": "DWP Unit SMP Negeri 5 Purbalingga",
+      "organizer": "DWP Dindikbud Kabupaten Purbalingga",
+      "photoSrc": "/images/school/real-dwp-penghargaan.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "prestasi-3",
+      "title": "Penampilan Terbaik Parade Busana Adat & Lomba Baca Puisi Peringatan Hari Kartini",
+      "competitionName": "Apresiasi Seni Budaya & Literasi Sastra SMPN 5 Purbalingga",
+      "rank": "Terbaik 1",
+      "category": "Seni & Budaya",
+      "level": "Kabupaten",
+      "year": "2026",
+      "winnerName": "Siswa-Siswi Perwakilan Kelas SMPN 5 Purbalingga",
+      "organizer": "SMP Negeri 5 Purbalingga",
+      "photoSrc": "/images/school/real-kartini-fashion.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "prestasi-4",
+      "title": "Inovasi Produk Terbaik Gelar Karya P5 Tema Kewirausahaan",
+      "competitionName": "Pameran Projek Penguatan Profil Pelajar Pancasila (P5) Kurikulum Merdeka",
+      "rank": "Karya Unggulan",
+      "category": "Akademik",
+      "level": "Kabupaten",
+      "year": "2026",
+      "winnerName": "Tim Wirausaha Siswa & Kelas 8G SMPN 5 Purbalingga",
+      "organizer": "Tim Fasilitator P5 SMPN 5 Purbalingga",
+      "photoSrc": "/images/school/real-p5-kewirausahaan.jpg",
+      "isDummy": false
+    },
+    {
+      "id": "prestasi-5",
+      "title": "[Contoh Data Tambahan] Juara 2 Lomba MAPSI Cabang Tilawah & Tartil Al-Qur'an SMP",
+      "competitionName": "Lomba MAPSI SMP Tingkat Kabupaten Purbalingga",
+      "rank": "Juara 2",
+      "category": "Akademik",
+      "level": "Kabupaten",
+      "year": "2025",
+      "winnerName": "[Perwakilan Siswa MAPSI SMPN 5]",
+      "organizer": "MGMP PAI SMP Kab. Purbalingga",
+      "photoSrc": "/images/school/real-tadarus-lapangan.jpg",
+      "isDummy": true
+    },
+    {
+      "id": "prestasi-6",
+      "title": "[Contoh Data Tambahan] Juara Harapan 1 Lomba Baris-Berbaris (LKBB) Pelajar SMP",
+      "competitionName": "LKBB Pelajar SMP/MTs Tingkat Kabupaten Purbalingga",
+      "rank": "Harapan 1",
+      "category": "Kesiswaan & Sekolah",
+      "level": "Kabupaten",
+      "year": "2025",
+      "winnerName": "Pleton Paskibra SMPN 5 Purbalingga",
+      "organizer": "Dindikbud Kab. Purbalingga",
+      "photoSrc": "/images/school/real-upacara-bendera.jpg",
+      "isDummy": true
+    }
+  ],
+  "photos": [
+    {
+      "id": "foto-p5-kewirausahaan",
+      "src": "/images/school/real-p5-kewirausahaan.jpg",
+      "title": "Gelar Karya P5 Tema Kewirausahaan Bersama Kepala Sekolah",
+      "category": "Gelar Karya P5 & Kewirausahaan",
+      "caption": "Kepala SMPN 5 Purbalingga, Bapak Slamet Sriyanto, bersama guru dan siswi memamerkan produk olahan pangan dan minuman hasil Projek Penguatan Profil Pelajar Pancasila (P5) Tema Kewirausahaan.",
+      "locationLabel": "Panggung Utama SMPN 5 Purbalingga",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-upacara-bendera",
+      "src": "/images/school/real-upacara-bendera.jpg",
+      "title": "Khidmat Pengibaran Bendera Merah Putih",
+      "category": "Upacara & Kepemimpinan OSIS",
+      "caption": "Pasukan Pengibar Bendera (Paskibra) SMPN 5 Purbalingga melaksanakan tugas pengibaran bendera Merah Putih dengan tertib dan disiplin pada upacara hari Senin.",
+      "locationLabel": "Lapangan Upacara SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-bazar-p5-8g",
+      "src": "/images/school/real-bazar-p5-8g.jpg",
+      "title": "Tinjauan Stand Bazar Kuliner Siswa Kelas 8G",
+      "category": "Gelar Karya P5 & Kewirausahaan",
+      "caption": "Kepala Sekolah memberikan apresiasi kepada siswa-siswi kelas 8G yang menyajikan kreasi Es Lumut, Cheese Roll, dan jajanan sehat pada kegiatan Bazar P5.",
+      "locationLabel": "Halaman Bazar Sekolah",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-upz-zakat",
+      "src": "/images/school/real-upz-zakat.jpg",
+      "title": "Unit Pengumpul Zakat (UPZ) & Ramadhan Festive",
+      "category": "Ramadhan Festive & Sosial",
+      "caption": "Kepala Sekolah bersama perwakilan siswa-siswi menunjukkan paket beras zakat fitrah yang dihimpun melalui Unit Pengumpul Zakat (UPZ) SMP Negeri 5 Purbalingga.",
+      "locationLabel": "Selasar UPZ SMPN 5 Purbalingga",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-ldk-osis",
+      "src": "/images/school/real-ldk-osis.jpg",
+      "title": "Latihan Dasar Kepemimpinan (LDK) Pengurus OSIS",
+      "category": "Upacara & Kepemimpinan OSIS",
+      "caption": "Kegiatan Latihan Dasar Kepemimpinan (LDK) OSIS SMP Negeri 5 Purbalingga untuk membentuk generasi yang berkarakter Profil Pelajar Pancasila dan berakhlak mulia.",
+      "locationLabel": "Ruang Laboratorium & Pelatihan",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-juara-futsal",
+      "src": "/images/school/real-juara-futsal.jpg",
+      "title": "Penyerahan Piala Juara Turnamen Futsal Antar Kelas",
+      "category": "Olahraga & Kesiswaan",
+      "caption": "Tim juara turnamen futsal putra menerima piala kejuaraan didampingi oleh bapak dan ibu guru pembina olahraga pada puncak kegiatan classmeeting.",
+      "locationLabel": "Lapangan Olahraga SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-kartini-fashion",
+      "src": "/images/school/real-kartini-fashion.jpg",
+      "title": "Parade Busana Adat & Kebaya Peringatan Hari Kartini",
+      "category": "Seni Budaya & Literasi",
+      "caption": "Siswi-siswi beserta ibu guru tampil anggun mengenakan busana kebaya dan kain batik tradisional di lapangan utama dalam rangka melestarikan budaya nasional.",
+      "locationLabel": "Lapangan Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-senam-bersama",
+      "src": "/images/school/real-senam-bersama.jpg",
+      "title": "Gebyar Senam Pagi Bersama Seluruh Warga Sekolah",
+      "category": "Olahraga & Kesiswaan",
+      "caption": "Ratusan peserta didik kelas VII, VIII, dan IX mengikuti kegiatan senam kebugaran jasmani pagi secara serentak di lapangan utama SMPN 5 Purbalingga.",
+      "locationLabel": "Lapangan Basket & Voli",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-pelepasan-siswa",
+      "src": "/images/school/real-pelepasan-siswa.jpg",
+      "title": "Persembahan Paduan Suara 'Terimakasihku' Pelepasan Siswa",
+      "category": "Seni Budaya & Literasi",
+      "caption": "Penampilan haru siswa-siswi kelas IX menyanyikan lagu Terimakasihku di panggung utama sebagai ungkapan syukur dan penghormatan kepada bapak serta ibu guru.",
+      "locationLabel": "Panggung Wisuda & Pelepasan",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-zakat-1",
+      "src": "/images/school/real-zakat-1.jpg",
+      "title": "Penyaluran Zakat Fitrah kepada Warga Sekitar Sekolah",
+      "category": "Ramadhan Festive & Sosial",
+      "caption": "Perwakilan pengurus OSIS menyerahkan secara langsung paket beras zakat fitrah kepada warga masyarakat dan pekerja di sekitar lingkungan Kelurahan Bancar.",
+      "locationLabel": "Gerbang Utama Jl. Letjend S. Parman",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-zakat-2",
+      "src": "/images/school/real-zakat-2.jpg",
+      "title": "Berbagi Kebahagiaan di Bulan Suci Ramadhan",
+      "category": "Ramadhan Festive & Sosial",
+      "caption": "Siswi SMPN 5 Purbalingga menyalurkan amanah zakat fitrah dalam rangkaian kegiatan Ramadhan Festive (Tadarus Al-Qur'an, Zakat Fitrah, dan Bakti Sosial).",
+      "locationLabel": "Gerbang Depan SMPN 5 Purbalingga",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-bazar-paguyuban",
+      "src": "/images/school/real-bazar-paguyuban.jpg",
+      "title": "Sinergi Paguyuban Orang Tua pada Bazar Sekolah",
+      "category": "Gelar Karya P5 & Kewirausahaan",
+      "caption": "Kolaborasi hangat antara Kepala Sekolah dan Paguyuban Orang Tua/Wali Murid yang turut meramaikan stand kuliner tradisional pada acara gelar karya sekolah.",
+      "locationLabel": "Area Stand Paguyuban",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-pembina-upacara",
+      "src": "/images/school/real-pembina-upacara.jpg",
+      "title": "Amanat Pembina Upacara & Barisan Dewan Guru",
+      "category": "Upacara & Kepemimpinan OSIS",
+      "caption": "Ibu guru pembina upacara menyampaikan amanat penguatan disiplin dan motivasi belajar, diikuti dengan khidmat oleh jajaran dewan guru berseragam KORPRI dan seluruh siswa.",
+      "locationLabel": "Lapangan Upacara SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-gerbang-5s",
+      "src": "/images/school/real-gerbang-5s.jpg",
+      "title": "Budaya 5S (Senyum, Salam, Sapa, Sopan, Santun) di Gerbang Sekolah",
+      "category": "Upacara & Kepemimpinan OSIS",
+      "caption": "Pengurus OSIS dan tim penegak disiplin menyambut kedatangan rekan-rekan siswa di gerbang depan SMPN 5 Purbalingga yang berpredikat Sekolah Ramah Anak.",
+      "locationLabel": "Gerbang Sekolah Ramah Anak",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-literasi-puisi-1",
+      "src": "/images/school/real-literasi-puisi-1.jpg",
+      "title": "Lomba Baca Puisi & Apresiasi Sastra Siswa",
+      "category": "Seni Budaya & Literasi",
+      "caption": "Penampilan siswi membacakan puisi dengan penuh penghayatan di hadapan warga sekolah, berlatar tugu nilai karakter Keimanan, Keteladanan, dan Ketertiban.",
+      "locationLabel": "Lapangan Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-literasi-puisi-2",
+      "src": "/images/school/real-literasi-puisi-2.jpg",
+      "title": "Ekspresi Literasi di Lapangan Berlogo SMP Negeri 5",
+      "category": "Seni Budaya & Literasi",
+      "caption": "Siswi unjuk keberanian dan keterampilan berbicara di depan umum melalui pembacaan karya sastra di tengah lapangan utama berlogo resmi SMP Negeri 5 Purbalingga.",
+      "locationLabel": "Lapangan Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-peragaan-kebaya",
+      "src": "/images/school/real-peragaan-kebaya.jpg",
+      "title": "Lomba Peragaan Busana Tradisional Antar Kelas",
+      "category": "Seni Budaya & Literasi",
+      "caption": "Peserta nomor urut 1 memperagakan busana kebaya beludru merah marun dan jarik batik di atas karpet peragaan pada lomba peringatan hari besar nasional.",
+      "locationLabel": "Arena Catwalk Lapangan Sekolah",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-tadarus-lapangan",
+      "src": "/images/school/real-tadarus-lapangan.jpg",
+      "title": "Kegiatan Pembinaan Rohani & Tadarus Pagi Bersama",
+      "category": "Ramadhan Festive & Sosial",
+      "caption": "Seluruh siswa-siswi berkumpul dengan tertib di lapangan sekolah untuk mengikuti doa pagi, tausiyah keagamaan, dan gerakan tadarus Al-Qur'an bersama.",
+      "locationLabel": "Lapangan Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-classmeeting-lomba",
+      "src": "/images/school/real-classmeeting-lomba.jpg",
+      "title": "Keseruan Lomba Ketangkasan & Kerja Sama Regu Classmeeting",
+      "category": "Olahraga & Kesiswaan",
+      "caption": "Suasana ceria para siswi mengikuti lomba estafet ketangkasan di koridor taman sekolah untuk mempererat kekompakan antar kelas seusai pekan ujian semester.",
+      "locationLabel": "Koridor Taman Kelas",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-senam-guru-siswa",
+      "src": "/images/school/real-senam-guru-siswa.jpg",
+      "title": "Senam Sehat Bersama Dewan Guru dan Peserta Didik",
+      "category": "Olahraga & Kesiswaan",
+      "caption": "Ibu-ibu guru turut berbaur memimpin gerakan senam pagi bersama para siswa di bawah sinar matahari pagi untuk menjaga kebugaran warga sekolah.",
+      "locationLabel": "Halaman Olahraga Sekolah",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-senam-instruktur",
+      "src": "/images/school/real-senam-instruktur.jpg",
+      "title": "Pemandu Gerakan Senam & Semangat Pagi Siswa",
+      "category": "Olahraga & Kesiswaan",
+      "caption": "Antusiasme dan senyum ceria peserta didik mengikuti irama gerakan senam pagi yang dipandu dari podium lapangan utama.",
+      "locationLabel": "Lapangan Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-osis-gerbang",
+      "src": "/images/school/real-osis-gerbang.jpg",
+      "title": "Kebersamaan Pengurus OSIS & Kader Disiplin Sekolah",
+      "category": "Upacara & Kepemimpinan OSIS",
+      "caption": "Potret kebersamaan siswa-siswi pengurus OSIS dan petugas piket gerbang usai melaksanakan tugas pagi penyambutan siswa.",
+      "locationLabel": "Gerbang Utama SMPN 5",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-dwp-penghargaan",
+      "src": "/images/school/real-dwp-penghargaan.jpg",
+      "title": "Penyerahan Piagam Dharma Wanita Persatuan (DWP) Dindikbud",
+      "category": "Kegiatan Guru & DWP",
+      "caption": "Jajaran pengurus Dharma Wanita Persatuan (DWP) unit SMPN 5 Purbalingga menerima cendera mata dan apresiasi dari DWP Dinas Pendidikan dan Kebudayaan Kabupaten Purbalingga.",
+      "locationLabel": "Ruang Tamu & Pertemuan DWP",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-dwp-sosialisasi",
+      "src": "/images/school/real-dwp-sosialisasi.jpg",
+      "title": "Partisipasi Aktif pada Raker & Sosialisasi AD/ART DWP Kab. Purbalingga",
+      "category": "Kegiatan Guru & DWP",
+      "caption": "Keikutsertaan perwakilan Dharma Wanita Persatuan dalam Rapat Kerja dan Sosialisasi AD/ART dalam rangka HUT DWP Kabupaten Purbalingga.",
+      "locationLabel": "Aula Pertemuan DWP Purbalingga",
+      "isPlaceholder": false
+    },
+    {
+      "id": "foto-kriya-konektor",
+      "src": "/images/school/real-kriya-konektor.jpg",
+      "title": "Keterampilan Kriya Rajut & Pembuatan Konektor Masker",
+      "category": "Kegiatan Guru & DWP",
+      "caption": "Kreativitas anggota Dharma Wanita dan pendidik dalam memproduksi hasil karya rajutan tangan yang dipamerkan dengan latar perangkat gamelan sekolah.",
+      "locationLabel": "Ruang Seni & Gamelan Sekolah",
+      "isPlaceholder": false
+    }
+  ],
+  "ultMessages": [
+    {
+      "id": "ult-sample-1",
+      "fullName": "Wahyu Hidayat (Contoh Pesan ULT)",
+      "senderRole": "Orang Tua / Wali Murid",
+      "contactNumber": "081227001234",
+      "topicCategory": "Informasi PPDB / Pendaftaran",
+      "messageText": "Selamat pagi Admin SMPN 5 Purbalingga, mohon informasi apakah persyaratan Kartu Keluarga untuk jalur zonasi harus minimal satu tahun sebelum tanggal pendaftaran?",
+      "createdAt": "23 November 2026, 09:15 WIB",
+      "isRead": false
+    }
+  ],
+  "updatedAt": "2026-11-28T17:30:11.452Z"
+}
